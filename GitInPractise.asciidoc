@@ -1,9 +1,5 @@
 ## Git in Practise ##
 
-Holy Shhhi!
-
-Pull Experiment ;)
-
 -- Third change --
 Something new
 - Fetch
